@@ -11,4 +11,4 @@
 
 ### Find me around the web 🌎
 - 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/rishi-raj-b9ab44a1).
-- 🌎 To know about me more on [erishiraj](https://www.erishiraj.com/).
+- 🌎 To know more about me on [erishiraj](https://www.erishiraj.com/).
