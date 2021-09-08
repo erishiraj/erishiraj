@@ -1,6 +1,6 @@
 ## Hi there, I'm Rishi Raj 👋
 
-- 🔭 I’m currently working on **due.work**
+- 🔭 I’m currently working on [due.work](https://www.due.work)
 - 👯 I’m looking to collaborate on **ReactJS Project**
 - 🤔 I’m looking for change
 - 📫 Reach me on: erishiraj@gmail.com
