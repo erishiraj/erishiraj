@@ -1,4 +1,4 @@
-## Hi there, I'm Rishi Raj 👋  
+## Hi there, I'm Rishi Raj 👋
 
 - 🔭 I’m currently working on **due.work**
 - 👯 I’m looking to collaborate on **ReactJS Project**
