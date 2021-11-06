@@ -1,6 +1,6 @@
 ## Hi there, I'm Rishi Raj 👋
 
-- 🔭  I’m currently working on [PwC](https://www.pwc.com)
+<!-- - 🔭  I’m currently working on [PwC](https://www.pwc.com) -->
 - 🤔  I’m looking for change
 - 📫  Reach me on: erishiraj@gmail.com
 <!-- - 👯  I’m looking to collaborate on **ReactJS Project -->
