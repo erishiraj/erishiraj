@@ -1,4 +1,4 @@
-## Hi there, I'm Rishi Raj 👋
+## Hi visitor's, I'm Rishi Raj 👋
 
 <!-- - 🤔  I’m looking for change -->
 - 📫  Reach me on: erishiraj@gmail.com
