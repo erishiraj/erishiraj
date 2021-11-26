@@ -1,5 +1,4 @@
 ## Hi visitor's, I'm Rishi Raj 👋
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!-- - 🤔  I’m looking for change -->
 - 📫  Reach me on: erishiraj@gmail.com
