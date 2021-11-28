@@ -38,7 +38,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code></p>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/erishiraj">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishiraj&amp;theme=light&amp;hide_langs_below=1" style="max-width: 100%;">
 </a>
 <a href="https://github.com/erishiraj">
