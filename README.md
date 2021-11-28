@@ -8,6 +8,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs in background every day while working.
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=erishiraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 ### Languages and Tools🧰
 
 [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ReactJS](https://reactjs.org/docs/getting-started.html) [Redux](https://redux.js.org/introduction/getting-started) [NextJs](https://nextjs.org/docs) [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) [Strapi](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) [GraphQL](https://www.apollographql.com/docs/react) [MongoDB](https://docs.mongodb.com/manual/tutorial/getting-started/) [Android](https://developer.android.com/guide?hl=th) [iOS](https://swift.org/documentation) [Semantic-UI](https://react.semantic-ui.com)
