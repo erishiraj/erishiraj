@@ -1,4 +1,7 @@
 ## Hi visitor's, I'm Rishi Raj 👋
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec3dd3ba7e307ec55df3105c916f41f328665f8bd07319dbf7de203dbc3c71c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d706177616e266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963"><img src="https://camo.githubusercontent.com/ec3dd3ba7e307ec55df3105c916f41f328665f8bd07319dbf7de203dbc3c71c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d706177616e266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="iampawan" data-canonical-src="https://komarev.com/ghpvc/?username=erishiraj&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width: 100%;"></a>
+
+<img align="left" alt="Pawan's Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">
 
 - 🔭 I’m currently working on [PwC](https://www.pwc.com)
 - 🌱 I’m currently learning more about Backend
