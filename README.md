@@ -1,9 +1,9 @@
 ## Hi visitor's, I'm Rishi Raj 👋
 
-🔭 I’m currently working on [PwC](https://www.pwc.com).
-🌱 I’m currently learning more about Backend.
+🔭 I’m currently working on [PwC](https://www.pwc.com)
+🌱 I’m currently learning more about Backend
 👯  I’m looking to collaborate on **ReactJS Project**
-💬 Ask me about any tech-related stuff.
+💬 Ask me about any tech-related stuff
 📫 How to reach me: Twitter - @erishiraj
 😄 Pronouns: He/His
 ⚡ Fun fact: I spend almost 12 hours listening to songs in background every day while working.
