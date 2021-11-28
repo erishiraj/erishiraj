@@ -38,13 +38,6 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code></p>
 
-<a href="https://github.com/erishiraj">
-  <img align="center" src="https://camo.githubusercontent.com/09052184451649d6ecea9a14428b3336d0da6977669057b44329ebb8356ac497/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d706177616e267468656d653d6c6967687426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishiraj&amp;theme=light&amp;hide_langs_below=1" style="max-width: 100%;">
-</a>
-<a href="https://github.com/erishiraj">
- <img align="center" src="https://camo.githubusercontent.com/9c24060bc3fa93ce4a91ae9566dbce59fe90e5762844d6e201453090571a0895/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69616d706177616e2673686f775f69636f6e733d74727565267468656d653d6c69676874266c696e655f6865696768743d3237" alt="Pawan's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=erishiraj&amp;show_icons=true&amp;theme=light&amp;line_height=27" style="max-width: 100%;">
-</a>
-<br>
 
 <!-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ReactJS](https://reactjs.org/docs/getting-started.html) [Redux](https://redux.js.org/introduction/getting-started) [NextJs](https://nextjs.org/docs) [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) [Strapi](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) [GraphQL](https://www.apollographql.com/docs/react) [MongoDB](https://docs.mongodb.com/manual/tutorial/getting-started/) [Android](https://developer.android.com/guide?hl=th) [iOS](https://swift.org/documentation) [Semantic-UI](https://react.semantic-ui.com) -->
 
