@@ -27,9 +27,6 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs in background every day while working.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=erishiraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
 ### Languages and Tools🧰
 <p dir="auto">
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width: 100%;"></a></code>
@@ -41,5 +38,10 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code></p>
 
+<a href="https://github.com/iampawan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erishiraj&amp;theme=light&amp;hide_langs_below=1" style="max-width: 100%;">
+</a>
+<a href="https://github.com/erishiraj">
+ <img src="https://github-readme-stats.vercel.app/api?username=erishiraj&&show_icons=true&title_color=217fff&icon_color=217fff&text_color=000000&bg_color=ffffff">
+</a>
 
-<!-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ReactJS](https://reactjs.org/docs/getting-started.html) [Redux](https://redux.js.org/introduction/getting-started) [NextJs](https://nextjs.org/docs) [HTML & CSS](https://developer.mozilla.org/en-US/docs/Web/HTML) [Strapi](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) [GraphQL](https://www.apollographql.com/docs/react) [MongoDB](https://docs.mongodb.com/manual/tutorial/getting-started/) [Android](https://developer.android.com/guide?hl=th) [iOS](https://swift.org/documentation) [Semantic-UI](https://react.semantic-ui.com) -->
