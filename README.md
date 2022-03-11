@@ -18,7 +18,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [PwC](https://www.pwc.com)
+- 🔭 I’m currently working in [PwC](https://www.pwc.com)
 - 🌱 I’m currently learning more about Backend
 - 👯  I’m looking to collaborate on **ReactJS Project**
 - 💬 Ask me about any tech-related stuff
