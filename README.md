@@ -24,7 +24,7 @@
 - 💬 Ask me about any tech-related stuff
 - 📫 How to reach me: Twitter - @erishiraj
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs in background every day while working.
+- ⚡ Fun fact: I Listen songs in background most of time while i'm working days.
 
 
 ### Languages and Tools🧰
