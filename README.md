@@ -24,7 +24,7 @@
 - 💬 Ask me about any tech-related stuff
 - 📫 How to reach me: Twitter - @erishiraj
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I Listen songs in background most of time while i'm working days.
+- ⚡ Fun fact: I Listen songs in background most of time while i'm working.
 
 
 ### Languages and Tools🧰
