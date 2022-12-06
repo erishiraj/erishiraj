@@ -19,7 +19,7 @@
 <br>
 
 - 🔭 I’m working in [PwC](https://www.pwc.com)
-- 🌱 I’m learning more about Backend
+- 🌱 I’m learning nodeJS
 - 👯  I’m looking to collaborate on **Blockchain Project**
 - 💬 Ask me about any tech-related stuff
 - 📫 How to reach me: Twitter - @erishiraj
