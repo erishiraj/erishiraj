@@ -18,7 +18,7 @@
 <br>
 <br>
 
-- 🔭 I’m working in [PwC](https://www.pwc.com)
+- 🔭 I’m working in [Incedo](https://www.incedoinc.com)
 - 🌱 I’m learning nodeJS
 - 👯  I’m looking to collaborate on **Blockchain Project**
 - 💬 Ask me about any tech-related stuff
